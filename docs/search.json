@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fiona Houser’s Personal Website and Portfolio for GEOG 490",
+    "section": "",
+    "text": "This is me!\n\n\nHello! My name is Fiona Houser and this is my personal website/portfolio made for GEOG 490. I am a fourth year student at the University of Oregon, double majoring in Spatial Data Science (SDS) and Spanish. I am originally from Portland.\n\nHere is my resume/CV\n\n\n\nThis is my updated resume\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "case_study.html",
+    "href": "case_study.html",
+    "title": "Case Study on Portland, OR",
+    "section": "",
+    "text": "In this section you can see the culmination of all that I have learned in this class. I perform a case study on demographic change in my hometown, Portland, OR. Specifically I look at the entire CBSA, which spans two states (Oregon and Washington) and has a population of approximately 2.5 million people.\n\n\n\nHere is a view of the census tracts in the Portland-Vancouver-Hillsboro CBSA\n\n\nThere are 568 census tracts in the CBSA.\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.1     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nAttaching package: 'scales'\n\n\nThe following object is masked from 'package:purrr':\n\n    discard\n\n\nThe following object is masked from 'package:readr':\n\n    col_factor\n\n\nYour original .Renviron will be backed up and stored in your R HOME directory if needed.\n\nYour API key has been stored in your .Renviron and can be accessed by Sys.getenv(\"CENSUS_API_KEY\"). \nTo use now, restart R or run `readRenviron(\"~/.Renviron\")`\n\n\n[1] \"e9fab01c12797a522e0541e2b24496af231563af\"\n\n\n\n\n\n\n\n\n\n\n\nYour original .Renviron will be backed up and stored in your R HOME directory if needed.\n\n\nYour API key has been stored in your .Renviron and can be accessed by Sys.getenv(\"CENSUS_API_KEY\"). \nTo use now, restart R or run `readRenviron(\"~/.Renviron\")`\n\n\n[1] \"e9fab01c12797a522e0541e2b24496af231563af\"\n\n\n\n\n\n\n\n\n\n\n\nUsing the Vintage 2024 Population Estimates"
+  }
+]

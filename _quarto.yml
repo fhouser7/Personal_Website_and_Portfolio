@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "personal_website_and_portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - case_study.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
