@@ -6,4 +6,6 @@ title: "Fiona Houser's Personal Website and Portfolio for GEOG 490"
 
 Hello! My name is Fiona Houser and this is my personal website/portfolio made for GEOG 490. I am a fourth year student at the University of Oregon, double majoring in Spatial Data Science (SDS) and Spanish. I am originally from Portland.
 
+I enjoy/am interested in these parts of my GEOG classes: ...
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
