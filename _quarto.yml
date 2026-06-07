@@ -4,15 +4,6 @@ project:
 
 website:
   title: "Personal Website and Portfolio"
-  # Everything below this line is an experiment
-  image: IMG_0177.jpg
-  about:
-    template: trestles
-    links:
-    - icon: github
-      text: Github
-      href: https://github.com/fhouser7
-    # Till here
   navbar:
     left:
       - href: index.qmd
