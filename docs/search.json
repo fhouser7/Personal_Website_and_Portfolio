@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Fiona Houser’s Personal Website and Portfolio for GEOG 490",
     "section": "",
-    "text": "This is me!\n\n\nHello! My name is Fiona Houser and this is my personal website/portfolio made for GEOG 490. I am a fourth year student at the University of Oregon, double majoring in Spatial Data Science (SDS) and Spanish. I am originally from Portland.\n\nHere is my resume/CV\n\n\n\nThis is my updated resume\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! My name is Fiona Houser and this is my personal website/portfolio made for GEOG 490. I am a fourth year student at the University of Oregon, double majoring in Spatial Data Science (SDS) and Spanish. I am originally from Portland.\nI enjoy/am interested in these parts of my GEOG classes: …\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Here is my resume"
   },
   {
     "objectID": "case_study.html",
