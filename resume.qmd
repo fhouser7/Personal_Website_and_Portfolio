@@ -1,0 +1,9 @@
+---
+title: "My Resume"
+format: html
+editor: visual
+---
+
+### Here is my resume
+
+![](Fiona_Houser_resume.jpg){fig-align="center" width="554"}

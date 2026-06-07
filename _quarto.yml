@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - case_study.qmd
-
+      - resume.qmd
 format:
   html:
     theme:
