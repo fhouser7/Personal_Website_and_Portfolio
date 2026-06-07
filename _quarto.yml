@@ -12,6 +12,7 @@ website:
       - resume.qmd
 format:
   html:
+    link-external-newwindow: true
     theme:
       - cosmo
       - brand
