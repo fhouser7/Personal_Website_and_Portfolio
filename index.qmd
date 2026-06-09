@@ -14,7 +14,7 @@ about:
 
 My name is Fiona Houser, and this is my personal website/portfolio made for GEOG 490. I am a fourth year student at the University of Oregon, double majoring in Spatial Data Science (SDS) and Spanish. I have completed course work using Python, CSS, C, Javascript, HTML, R, RStudio, Mapbox, and ArcGIS Online.
 
-In the case study I perform, linked above, I analyze demographic change over time in the Portland-Vancouver-Hillsboro core-based statistical area (CBSA). To create the figures shown, I used RStudio to work with census data, analyzing and visualizing specific variables.
+In the case study I perform, linked above, I analyze demographic change over time in the Portland-Vancouver-Hillsboro core-based statistical area (CBSA). To create the figures shown, I used RStudio to work with census data, analyzing and visualizing specific variables, like an age and sex population breakdown,
 
 I previously worked as an AI/Tech intern at SunshineOxygen in Barcelona, Spain. I spent much of my time at the company developing a generative AI algorithm (GAIA) that produced synthetic hydrology and weather data. This GAIA was used to create a powerful model for disaster forecasting and event planning.
 
