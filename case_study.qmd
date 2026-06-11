@@ -5,6 +5,7 @@ title: "Case Study on Portland, OR"
 In this section you can see the culmination of all that I have learned in this class. I perform a case study on demographic change in Multnomah county, where I grew up. There are this many people in multnomah county
 
 ```{r}
+#| echo: false
 library(tidycensus)
 library(tidyverse)
 library(readr)
@@ -56,6 +57,7 @@ multnomah_pyramid
 ```
 
 ```{r}
+#| echo: false
 # libraries:
 library(tidycensus)
 library(tidyverse)
@@ -100,6 +102,7 @@ or_water_erase
 ```
 
 ```{r}
+#| echo: false
 # Libraries
 library(tidycensus)
 library(tidyverse)
